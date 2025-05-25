@@ -10,11 +10,11 @@
 
 Hello! I’m a data professional focused on making higher education better through thoughtful research, transparent analytics, and practical data tools.
 
-Over the past decade, I’ve led institutional research and evaluation work at large research universities, helping leadership make data-informed decisions. I enjoy bridging technical expertise with practical needs — whether that means building dashboards, writing interactive reports, or uncovering patterns in student data using **R** and **Quarto**.
+Over the past decade, I’ve led institutional research and evaluation work at large research universities, helping leadership make data-informed decisions. I enjoy bridging technical expertise with practical needs, whether that means building dashboards, writing interactive reports, or uncovering patterns in student data using **R** and **Quarto**.
 
 ### What I Work On
 
-In my current role, I lead analytics projects that inform university strategy and planning. I’ve also worked on survey design, automated reporting workflows, and presenting data to senior leadership in clear, compelling ways.
+In my current role, I lead analytics projects that inform university strategy and planning. I’ve also worked on survey design, automated reporting workflows, data governance initiatives, and presenting data to senior leadership in clear, compelling ways.
 
 ### I Also Write and Present
 
@@ -30,7 +30,7 @@ I’ve taught courses and workshops on **data communication** and **organization
 
 ### Tools & Tech I Like
 
-I work across the full data pipeline — from cleaning and wrangling to visualization and delivery. I regularly use many of these tools, and have working proficiency with the rest:
+I work across the full data pipeline, from cleaning and wrangling to visualization and delivery. I regularly use many of these tools, and have working proficiency with the rest:
 
 - **Languages & Tools**: R, SQL, Quarto, Tableau, Git, Stata, SPSS  
 - **Databases & Data**: Oracle, NoSQL, IPEDS, National Student Clearinghouse  
