@@ -34,7 +34,7 @@ I work across the full data pipeline, from cleaning and wrangling to visualizati
 
 - **Languages & Tools**: R, SQL, Quarto, Tableau, Git, Stata, SPSS  
 - **Databases & Data**: Oracle, NoSQL, IPEDS, National Student Clearinghouse  
-- **Infrastructure**: GitHub, AWS (S3, EC2, RDS), Tableau Server  
+- **Infrastructure**: GitHub, AWS (S3, EC2, RDS), Tableau Server, Posit Connect  
 - **Methods**: Survey Design, Statistical Modeling, Program Evaluation, Reporting Automation
 
 ### Education
